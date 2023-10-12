@@ -4,14 +4,13 @@ It is a sad reality that there are many schemes for the benefit of the people bu
 Yojna application is the solution we need which helps to create awareness about various documentations and also about schemes , even people who dont know how to read or write can also easily use it as it also has a voice assistant which would guide the user through the interface( i.e which buttons to press) when the user signs in .
 It also has a feature of a forum based chat system where you can actually share your problems with the government (if it was actually made by government) and also speech to text system so that even people who dont know how to write can also share their problems.
 
+![2](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/27394645-fa18-4224-a8b6-09c18b1ec804)
 
-![1st](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/6383dd9a-f5d5-483b-b2c5-81eeca75e845)
 
+![1](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/2abe7a1d-3ecd-40f4-a804-9af5cd9228bb)
+![3](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/11908b80-7ee9-486e-b789-2b8e02c9cfce)![6](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/35f8189a-9bbd-4259-81d8-f7ababca3dea)
 
-![2nd](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/c80c2046-3bff-49b0-aed4-2e2a77b3a2a7)
-![2nd](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/8804b255-b2bb-4c9e-acdc-d41ad6281056)![3rd](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/ebc11913-638f-4275-ae8c-1a25fa1f0060)
+![4](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/918402c5-891b-4322-b1ee-cfe5fc8b2396)![7](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/1c7c3163-152e-4777-9952-ddc907a75003)
 
-![Screenshot_20231012_214834](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/1edfed92-561c-4dd4-b2e1-593598e857bc)
-![Screenshot_20231012_214855](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/77d77629-68ef-4ec8-baf5-4a3b1dfa98c4)![Screenshot_20231012_214905](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/1c886158-0688-4ab3-927e-57929adf2e80)
-
-![Screenshot_20231012_214923](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/7ed72c0d-bb76-40de-bc37-2270545b2c04)
+![5](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/4ec40951-157c-48c8-a9ef-c11d09879460)
+![8](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/2364242e-a4d8-453f-9ca6-9f7602b8c8b1)
