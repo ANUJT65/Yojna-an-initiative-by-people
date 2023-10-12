@@ -1,8 +1,8 @@
 # governmentschemes
 
-It is a sad reality that there are many schemes for the benefit of the people but not many people know how to access those schemes.
-Yojna application is the solution we need which helps to create awareness about various documentations and also about schemes , even people who dont know how to read or write can also easily use it as it also has a voice assistant which would guide the user through the interface( i.e which buttons to press) when the user signs in .
-It also has a feature of a forum based chat system where you can actually share your problems with the government (if it was actually made by government) and also speech to text system so that even people who dont know how to write can also share their problems.
+It is a sad reality that there are many schemes for the benefit of the people but not many people know how to access those schemes or are not aware of these schemes so i have made an app to create awareness about these various schemes.
+Yojna application is the best solution that we need which will help to create awareness about various documentations and also about schemes , even people who dont know how to read or write can also easily use it as it also has a voice assistant, which would guide the user through the interface( i.e which buttons to press) when the user signs in .
+It also has a feature of a forum based chat system where you can actually share your problems with the government (if it was actually made by government) and also speech to text system so that even people who dont know how to write can also share their problems and also share their problems using camera maybe some road condition issues,water availibility issues,garbage collection issues etc.
 
 ![2](https://github.com/ANUJT65/Yojna-an-initiative-by-people/assets/123918593/27394645-fa18-4224-a8b6-09c18b1ec804)
 
